@@ -1,11 +1,11 @@
 {
   "format": "mastermind.update.feed.v1",
-  "version": "1.9.15",
-  "download_url": "https://raw.githubusercontent.com/Stallbrax206/mastermind-suno-updates/main/MasterMind_Update_v1_9_15.zip",
-  "sha256": "d49cbcd7954e985a3f6d72c5accc6bc93cb6d0ae6095d1ad314e2c8d857eb764",
+  "version": "1.10.0",
+  "download_url": "https://raw.githubusercontent.com/Stallbrax206/mastermind-suno-updates/main/MasterMind_Update_v1_10_0.zip",
+  "sha256": "5e9902c9cbd054e8f202f626c995a5578e3c9dc35e3e4410ce22b14824eec6b4",
   "signature": {
     "algorithm": "rsa-sha256",
     "key_id": "mastermind-prod-d40566af4ca3a64a",
-    "value": "S7xQeoOewEkngdtJY2SBhmzy4HSg0Mo7ewpda2IMfGNeLVWGk4TeygQWehBgo3m9SxJuoF5kDUPIaPydPH0KU10kUoTZk0YqV8mquEa26H3W68r3sjaGsHNyp55WjZCYqDiixLbx9M/i3EpYR4tc933JfOHvfLqogA/5ybY+3PPxWhfHhT7m21B0czaHkWQ3JEkWplh0LLbk4/gbInfkJk/BLPZ1pM8WqgMcf7AduaihMKFWi5IieuvFTBs0kvf+DBVNgU+pfO5Dn7bCA1CXaCgWdUvrr1ZzuXDjPylTuKKk5groTksvjZ7K0jjOebBfTWnWKtp75Px3HumooagkDayGp0Qe7wPaXUVnmBELYVFGHUvVSOnXDJ/LSCfMgjRtjuZeUKfliwfSDBcKppSmjwRGlTFtrk1qVNj6aRx0k6yyzvcI/KAqzu15boRpYZa9m0MpxXWwiTAssuelmz7dwAlg5Easnk1H3xjWsGUiLTsaXSzTTt4fmKo7gb67Qmr5"
+    "value": "X141Soabr/p4NygD8687/cIi45V7YyDveglWbYqt6Zg3YMebbmtTkRsTvKxQ0ViM8pXvZwvpg0xdAdk0MhJDXELA37b/+Rt02cBLwA4r9ObV2V6YvSZ9SDgeGk/jH1VJZtWMfAR9z3DlnK4adNJRszap502L1EWb8awdLSXO9rRGt/7RxHb3Bk4/S/cRwLQEmxK9rghXwPGUvmCGUVF0BEiU8uX7E3eBxsY8ss2GqHcZZrzD9Jni9KO4+1RVzrT2xqU9bSUBV5IbJ2Z6o04io9OiIkaVYV4ZODWc2teWR8fiJOleevfJmFoHIZOb2BpVVe2gC8Iz1LHyfX0e1a8xpZ4XJWCyGMeatOopHER0Mjbn2arun/sj9106Y+YzkOHUDquYZxk6vhFGbx/LAS1++6fRkIEKRe/Ww7UgIvYIrqBP0MDY2TJ7oKqOGeI1B7eILY0GrEzyU9IsH76PoouHl4AFGNKoSxaw9gft+SI9RMhfZQ1UHiae64xitMiIJIth"
   }
 }
