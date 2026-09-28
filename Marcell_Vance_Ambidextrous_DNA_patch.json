@@ -1,0 +1,72 @@
+{
+  "format": "mastermind.knowledge.patch.v1",
+  "description": "Upgrade Marcell Vance to an equally strong singer-rapper whose vocal identity remains unchanged across singing, rap, and in-section switches.",
+  "add": {
+    "presets.artists.marcell_vance": {
+      "ambidextrous_performance_dna": "One voice, two hands. Marcell is equally strong as a cold melodic singer and a real rapper; either mode can carry a complete record. Singing changes to rap by rhythm and phrasing, never by changing the performer, age, register identity, chest weight, composure, or authority.",
+      "performance_modes": {
+        "singing": "Cold means controlled, not empty: deep chest-led baritone, clean pitch, low vibrato, no runs or pleading, authoritative sustains, and clean clipped releases. Smooth without softness; composed without sleepiness.",
+        "rapping": "The same deep chest voice and adult weight in a low conversational rap delivery: relaxed authority, clear diction, real breath control, tight pocket, quick pickups, dense-line capability, pocket breaks, cadence resets, and payoff lines given room.",
+        "switching": "Move between singing and rap section to section or inside one verse without changing vocal identity. Melody may bleed into flow and flow may lift into melody. The switch is a rhythmic choice, never a costume change or second vocalist."
+      },
+      "style_performer_blocks": {
+        "balanced": "Adult male deep lyric baritone, cold controlled chest voice, full lower mids, rounded resonance, firm projection, same voice raps and sings | Ambidextrous singer-rapper: cold melodic singing with clean held notes and clipped endings, switching to low conversational rap with tight pocket, quick pickups and cadence resets | Hooks sung cold and chest-heavy, verses move between rap and melody",
+        "sing_leaning": "Adult male deep lyric baritone, cold controlled chest voice, full lower mids, rounded resonance, firm projection, same voice sings and raps | Cold melodic singing, clean held notes, clipped endings, low vibrato, with short low conversational rap passages in tight pocket | Hooks sung cold and chest-heavy with one repeated payoff phrase",
+        "rap_leaning": "Adult male deep lyric baritone, cold controlled chest voice, full lower mids, firm projection, same voice raps and sings | Low conversational rap, relaxed authority, tight pocket, quick pickups, cadence resets, payoff lines given room, lifting into cold melodic phrases | Hooks sung cold and chest-heavy, rhythmically controlled"
+      },
+      "lyric_section_tags": [
+        "[Intro: spoken, low baritone]",
+        "[Verse 1: rapped, low baritone, conversational pocket]",
+        "[Pre-Chorus: rap into melody, baritone]",
+        "[Chorus: sung, cold baritone, chest voice]",
+        "[Verse 2: melodic rap, baritone, cadence switches]",
+        "[Bridge: sung low, cold, stripped]",
+        "[Final Chorus: sung, cold baritone, fuller]"
+      ],
+      "switch_exclude_addons": [
+        "Second vocalist",
+        "Voice change",
+        "Shouted rap",
+        "Strained rap",
+        "Emo rap",
+        "Tenor lift",
+        "Falsetto",
+        "Pleading vocals",
+        "Melisma",
+        "Vocal runs"
+      ]
+    }
+  },
+  "replace": {
+    "presets.artists.marcell_vance.role": "Equal singer and rapper",
+    "presets.artists.marcell_vance.persona_lock": "Mature contemporary Black male ambidextrous R&B singer-rapper; equally strong in both, one unchanged voice. Deep chest-led lyric baritone, full lower mids, clean pitch, firm projection, cold controlled composure, adult masculine weight, relaxed swagger, and streetwise authority. As a singer: clean held notes, low vibrato, restrained emotion, and clipped releases; smooth but never soft, composed but never sleepy. As a rapper: the same chest voice and weight, low conversational authority, clear diction, breath control, tight pocket, quick pickups, dense-line capability, cadence resets, and payoff lines given room. He can switch section to section or inside a verse; only the rhythm of the words changes. Never introduce a second performer, younger/higher rap voice, shouted delivery, or identity change. Currentness comes from pocket agility and switching fluency, not youth-coding. Maturity comes from weight, restraint, diction, and lived-in confidence, not lounge pacing, crooner drag, or retro redesign. Production and performance references must never redesign this identity.",
+    "presets.artists.marcell_vance.vocal_style": "adult male deep lyric baritone; cold controlled chest voice, full lower mids, clean pitch, firm projection; same voice raps and sings",
+    "presets.artists.marcell_vance.performance_language": "Ambidextrous singer-rapper in one unchanged adult baritone. Cold melodic singing uses clean held notes, low vibrato, restrained emotion, and clipped endings. Low conversational rap keeps the same chest weight and composure while using tight pocket, quick pickups, dense lines, pocket breaks, cadence resets, clear diction, and controlled breath. Melody can bleed into flow and flow can lift into melody without a vocalist change.",
+    "presets.artists.marcell_vance.cultural_vocal_language": "Contemporary Black American R&B and rap performance language in one deep chest-centered baritone: grounded lower-mid resonance, firm natural consonants, relaxed behind-the-beat entrances, rhythmic elasticity, subtle pitch bends used sparingly, clean controlled singing, and low conversational rap authority. Keep identical adult weight, cold composure, and streetwise presence across both modes. No youthful rapper-pop recast, shouted rap, indie/folk/country/Broadway diction, gospel belting, classic-soul redesign, over-singing, pleading, melisma, vocal runs, or old-school crooner drag.",
+    "presets.artists.marcell_vance.currentness": "Contemporary rhythmic fluency without youth-coding: can ride active 140–154 BPM grids, carry full sections in low conversational rap, sing cold chest-heavy melody, and switch between them through quick pickups, syncopation, cadence resets, clipped phrases, selective sustains, and controlled in-verse transitions without changing vocal identity.",
+    "presets.artists.marcell_vance.performance_core": "one voice, two hands; cold chest-heavy singing with clean holds and clipped releases; same low baritone raps with tight pocket, quick pickups and cadence resets",
+    "presets.artists.marcell_vance.artist_type": "Grown ambidextrous R&B singer-rapper: either hand can carry the record; one cold, streetwise deep-baritone identity over active contemporary drums.",
+    "presets.artists.marcell_vance.artist_type_guardrail": "Equal singer and rapper. Never recast him as a singer who occasionally raps, a rapper who only hums hooks, or a second performer during switches. Keep the same adult deep baritone, chest weight, composure, and identity across both. No boyish rapper-pop, shouted or strained rap, high-tenor lift, pleading, lounge drag, crooner behavior, or retro redesign.",
+    "presets.artists.marcell_vance.exclude": [
+      "female vocals",
+      "duet",
+      "alternating vocalists",
+      "second vocalist",
+      "voice change",
+      "high tenor lead",
+      "tenor lift",
+      "falsetto lead",
+      "shouted rap",
+      "strained rap",
+      "emo rap",
+      "pleading vocals",
+      "melisma",
+      "vocal runs",
+      "gospel choir",
+      "filler ad-libs",
+      "whoops",
+      "mouth percussion",
+      "beatboxing"
+    ]
+  }
+}
