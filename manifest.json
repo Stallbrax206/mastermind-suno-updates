@@ -1,0 +1,11 @@
+{
+  "format": "mastermind.update.feed.v1",
+  "version": "1.9.15",
+  "download_url": "https://raw.githubusercontent.com/Stallbrax206/mastermind-suno-updates/main/MasterMind_Update_v1_9_15.zip",
+  "sha256": "d49cbcd7954e985a3f6d72c5accc6bc93cb6d0ae6095d1ad314e2c8d857eb764",
+  "signature": {
+    "algorithm": "rsa-sha256",
+    "key_id": "mastermind-prod-d40566af4ca3a64a",
+    "value": "S7xQeoOewEkngdtJY2SBhmzy4HSg0Mo7ewpda2IMfGNeLVWGk4TeygQWehBgo3m9SxJuoF5kDUPIaPydPH0KU10kUoTZk0YqV8mquEa26H3W68r3sjaGsHNyp55WjZCYqDiixLbx9M/i3EpYR4tc933JfOHvfLqogA/5ybY+3PPxWhfHhT7m21B0czaHkWQ3JEkWplh0LLbk4/gbInfkJk/BLPZ1pM8WqgMcf7AduaihMKFWi5IieuvFTBs0kvf+DBVNgU+pfO5Dn7bCA1CXaCgWdUvrr1ZzuXDjPylTuKKk5groTksvjZ7K0jjOebBfTWnWKtp75Px3HumooagkDayGp0Qe7wPaXUVnmBELYVFGHUvVSOnXDJ/LSCfMgjRtjuZeUKfliwfSDBcKppSmjwRGlTFtrk1qVNj6aRx0k6yyzvcI/KAqzu15boRpYZa9m0MpxXWwiTAssuelmz7dwAlg5Easnk1H3xjWsGUiLTsaXSzTTt4fmKo7gb67Qmr5"
+  }
+}
